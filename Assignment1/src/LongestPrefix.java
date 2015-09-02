@@ -4,7 +4,7 @@ import java.util.*;
  * @author Jonathan Monreal
  *
  */
-public class Assignment1 {
+public class LongestPrefix {
     
     /**
      * 
