@@ -5,7 +5,7 @@
 import java.util.*;
 
 /**
- * @author jonmonreal
+ * @author Jonathan Monreal
  *
  */
 public class Assignment1 {
